@@ -7,7 +7,7 @@
 -<a href="#dataset">Dataset</a>
 -<a href="project-structure">Project Structure</a>
 -<a href="tools--technologies">Tools & Technologies</a>
--<a href="data-cleaning--preparation">Data Cleaning & Preparation</a>
+-<a href="data-cleaning-preparation">Data Cleaning & Preparation</a>
 -<a href="dashboard">Dashboard</a>
 -<a href="final-recommendations">Final Recommendations</a>
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -63,7 +63,7 @@ Amazon-Analysis/
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<h2><a class="anchor" id="data-cleaning--preparation"></a>Data Cleaning & Preparation</h2>
+<h2><a class="anchor" id="data-cleaning-preparation"></a>Data Cleaning & Preparation</h2>
 
 - Removed duplicates and blank rows in Excel.
 - Converted `Order Date` to **Date** data type.
@@ -75,12 +75,13 @@ Amazon-Analysis/
 
 <h2><a class="anchor" id="dashboard"></a>Dashboard</h2>
 
-- Power BI Dashboard shows:
- ![Dashboard Preview](Amazone%20Sales%20Analysis.png)
+- **Power BI Dashboard** preview:  
+  ![Dashboard Preview](Images/Amazone%20Sales%20Analysis.png)
 
- Access Dashboard
+- **Access Dashboard**  
+  Click below to view the live Power BI report:
 
-[![View Dashboard](https://img.shields.io/badge/Power%20BI-View%20Dashboard-yellow?style=for-the-badge&logo=powerbi)](https://app.powerbi.com/view?r=eyJrIjoiOWVhZDI3YzAtMmFlZi00Y2UwLWI2OTgtMjFjNDdlMzFjODBlIiwidCI6IjJmMGEzYTlmLWZhOTUtNDM2Zi05YTk4LTZmODEwNjgwNmY0MCJ9)
+  [![View Dashboard](https://img.shields.io/badge/Power%20BI-View%20Dashboard-yellow?style=for-the-badge&logo=powerbi)](https://app.powerbi.com/view?r=eyJrIjoiYmE3MjhkNDUtMGMwMC00YmM0LWJhOGUtOTI1YWRhM2Y5ZmMxIiwidCI6IjJmMGEzYTlmLWZhOTUtNDM2Zi05YTk4LTZmODEwNjgwNmY0MCJ9)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
