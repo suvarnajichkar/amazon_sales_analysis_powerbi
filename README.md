@@ -2,17 +2,17 @@
 
 
 ## 📌 Table of Contents
--<a href="#overview">Overview</a>
--<a href="#business_problem">Business Problem</a>
--<a href="#dataset">Dataset</a>
--<a href="project-structure">Project Structure</a>
--<a href="tools--technologies">Tools & Technologies</a>
--<a href="data-cleaning-preparation">Data Cleaning & Preparation</a>
--<a href="dashboard">Dashboard</a>
--<a href="final-recommendations">Final Recommendations</a>
+- [Overview](#overview)
+- [Business Problem](#business-problem)
+- [Dataset](#dataset)
+- [Project Structure](#project-structure)
+- [Tools & Technologies](#tools--technologies)
+- [Data Cleaning & Preparation](#data-cleaning--preparation)
+- [Dashboard](#dashboard)
+- [Final Recommendations](#final-recommendations)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<h2><a class="anchor" id="overview"></a>Overview</h2>
+
 
 ## 📌 Overview
 This project presents an interactive **Power BI dashboard** built from Amazon sales data stored in Excel.  
@@ -20,7 +20,7 @@ The goal is to analyze **Year-to-Date (YTD)** sales performance, product categor
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<h2><a class="anchor" id="business_problem"></a>Business Problem</h2>
+
 
 
 ## 💡 Business Problem
@@ -31,12 +31,12 @@ Amazon wants to monitor sales across products and time periods to answer:
 - Which quarters require **strategic focus** to increase revenue?
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
-<h2><a class="anchor" id="dataset"></a>Dataset</h2>
 
+## Dataset
 - **Source:** [ Data folder](Data/) – contains the **Amazon_Combined_Data.csv** Excel file  
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
-<h2><a class="anchor" id="project-structure"></a>Project Structure</h2>
+## Project Structure
 
 ```
 Amazon-Analysis/
@@ -50,20 +50,16 @@ Amazon-Analysis/
 ├─ Images/
 │   └─ Amazone Sales Analysis.png
 │   └─ Amazone.png
-|
-└─ Scripts/ 
-    └─ README.md
+├─ README.md
 ```
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-<h2><a class="anchor" id="tools--technologies"></a>Tools & Technologies</h2>
+## Tools & Technologies
 - Excel 
 - Power BI (Interactive Visualizations)
 - GitHub
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-<h2><a class="anchor" id="data-cleaning-preparation"></a>Data Cleaning & Preparation</h2>
+## Data Cleaning & Preparation
 
 - Removed duplicates and blank rows in Excel.
 - Converted `Order Date` to **Date** data type.
@@ -72,8 +68,7 @@ Amazon-Analysis/
 - Created relationships between the **Sales** and **Date** tables.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-<h2><a class="anchor" id="dashboard"></a>Dashboard</h2>
+## Dashboard
 
 - **Power BI Dashboard** preview:  
   ![Dashboard Preview](Images/Amazone%20Sales%20Analysis.png)
@@ -84,8 +79,7 @@ Amazon-Analysis/
   [![View Dashboard](https://img.shields.io/badge/Power%20BI-View%20Dashboard-yellow?style=for-the-badge&logo=powerbi)](https://app.powerbi.com/view?r=eyJrIjoiYmE3MjhkNDUtMGMwMC00YmM0LWJhOGUtOTI1YWRhM2Y5ZmMxIiwidCI6IjJmMGEzYTlmLWZhOTUtNDM2Zi05YTk4LTZmODEwNjgwNmY0MCJ9)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-<h2><a class="anchor" id="final-recommendations"></a>Final Recommendations</h2>
+## Final Recommendations
 
 - Increase marketing for **Men Shoes** and **Camera** during peak holiday seasons.
 - Encourage customers to provide reviews to boost credibility and sales.
